@@ -1,4 +1,5 @@
 /*
+ * ptimer.h
  * Author: Will Eccles
  *
  * This is free and unencumbered software released into the public domain.
