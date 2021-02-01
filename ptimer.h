@@ -9,6 +9,7 @@
 #define PTIMER_WRAPPER_H_
 
 #include <signal.h>
+#include <sys/types.h>
 #include <time.h>
 
 /*
